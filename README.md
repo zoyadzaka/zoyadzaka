@@ -12,10 +12,8 @@
 
 - <b>Machine Learning Project</b>
   - [Implemented machine learning algorithms (SVM, Random Forest, Gradient Boosting) for personality classification based on supervised learning](https://github.com/zoyadzaka/PersonalityClassification.git)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Visualization Data Projects</b>
+  - [Analyzing Crime Patterns in Boston, United States, from 2012 to 2015]()
 
 <h2> 🤳 Connect with me:</h2>
 
