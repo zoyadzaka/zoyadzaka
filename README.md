@@ -11,7 +11,7 @@
 <h2>📊 Data Analysis Projects:</h2>
 
 - <b>Machine Learning Project</b>
-  - [Implemented machine learning algorithms (SVM, Random Forest, Gradient Boosting) for personality classification based on supervised learning]()
+  - [Implemented machine learning algorithms (SVM, Random Forest, Gradient Boosting) for personality classification based on supervised learning](https://github.com/zoyadzaka/PersonalityClassification.git)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
