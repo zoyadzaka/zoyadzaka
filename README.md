@@ -14,6 +14,10 @@
   - [Implemented machine learning algorithms (SVM, Random Forest, Gradient Boosting) for personality classification based on supervised learning](https://github.com/zoyadzaka/PersonalityClassification.git)
 - <b>Visualization Data Projects</b>
   - [Analyzing Crime Patterns in Boston, United States, from 2012 to 2015](https://github.com/zoyadzaka/BostonCrimePatterns.git)
+- <b>Tableau Projects</b>
+  - [Social Media 2023 Engagement Dashboard](https://github.com/zoyadzaka/Tableau_SocialMediaEngagementDashboard)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
